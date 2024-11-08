@@ -100,7 +100,7 @@ const handleDelete = (val) => {
             <span>{{ task.value }}</span>
           </label>
           <button class="btn-remove float-right" @click="onDelete(task.value)">Remove</button>
-        </li>
+        </li> 
         <li v-if="tasks?.length == 0">
           <spa>No tasks to display.</spa>
         </li>
