@@ -1,5 +1,6 @@
 {
   "name": "my-vue-app",
+  "homepage": "https://github.com/Sanoop-s/To-do-list",
   "private": true,
   "version": "0.0.0",
   "type": "module",
